@@ -1,3 +1,5 @@
+Maddox Dizdarevic & Kaylee Rasmor
+
 # Number Theory: Addition
 
 In this lab you've learned the basics of number theory as it relates to addition.
